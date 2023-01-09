@@ -17,7 +17,6 @@ Specially designed with **ACES** users in mind, the addon is set to include more
 Currently the addon supports blender default and Aces color spaces 
 
 
-
 ![Product page 3](https://user-images.githubusercontent.com/84709012/211051872-548d0c06-9626-4a07-9d80-4a8f0674058a.jpg)
 <p align="center"> Easy, Tag based system </p>
 
@@ -25,3 +24,11 @@ Currently the addon supports blender default and Aces color spaces
 <p align="center"> One Click Solution </p>
 
 ![Product page 2](https://user-images.githubusercontent.com/84709012/211053122-efd6df18-f831-43ce-8e43-a1b1788aa9b5.jpg)
+
+
+Changelog
+---
+V 0.1.2 - 
+- An option to change the addon shortcut has been added to the Preferences menu
+- Filmic Log has been added in the Color section of 'Default Blender' menu
+- The addon will now display "Color spaces fixed" on execution in the info panel 
