@@ -1,7 +1,7 @@
 # COLORSPACER
 
 
-## 🛒 Please support the developement by getting it on - <a href="https://blendermarket.com/products/colorspacer">Blender Market</a>
+## 🛒 Please support the developement by getting it on - <a href="https://infinitycg.gumroad.com/l/colorspacer">Gumroad</a>
 
 ### <a href="https://blendermarket.com/products/colorspacer/docs">Doucmentation</a>
 
