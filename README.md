@@ -32,3 +32,5 @@ V 0.1.2 -
 - An option to change the addon shortcut has been added to the Preferences menu
 - Filmic Log has been added in the Color section of 'Default Blender' menu
 - The addon will now display "Color spaces fixed" on execution in the info panel 
+
+Also available on - <a href="https://blendermarket.com/products/colorspacer">Blendermarket</a>
