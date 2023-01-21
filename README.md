@@ -28,6 +28,10 @@ Currently the addon supports blender default and Aces color spaces
 
 Changelog
 ---
+
+V 1.0.0 -
+- Added Agx support to the addon
+
 V 0.1.2 - 
 - An option to change the addon shortcut has been added to the Preferences menu
 - Filmic Log has been added in the Color section of 'Default Blender' menu
