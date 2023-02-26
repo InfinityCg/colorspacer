@@ -3,6 +3,10 @@
 
 ## 🛒 Please support the developement by getting it on - <a href="https://infinitycg.gumroad.com/l/colorspacer">Gumroad</a>
 
+---
+#### Please submit any ideas or features that would help the addon in the discussions
+---
+
 ### <a href="https://blendermarket.com/products/colorspacer/docs">Doucmentation</a>
 
 
