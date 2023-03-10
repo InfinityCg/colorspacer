@@ -18,8 +18,7 @@
 Colorspacer allows you to **set colorspaces of all your image textures with the click of a button**
 Specially designed with **ACES** users in mind, the addon now supports Agx and Default blender colorspace 
 
-Currently the addon supports blender default and Aces color spaces 
-
+Currently the addon supports any possible usecase for most of the colorspaces available, Please drop any unsupported option in the discussions
 
 ![Product page 3](https://user-images.githubusercontent.com/84709012/211051872-548d0c06-9626-4a07-9d80-4a8f0674058a.jpg)
 <p align="center"> Easy, Tag based system </p>
@@ -29,11 +28,15 @@ Currently the addon supports blender default and Aces color spaces
 
 ![Product page 2](https://user-images.githubusercontent.com/84709012/211053122-efd6df18-f831-43ce-8e43-a1b1788aa9b5.jpg)
 
+![image align="center"](https://user-images.githubusercontent.com/84709012/224279720-b1077d26-91ef-45bd-b982-e86a71561c84.png)
+
+
 
 Changelog
 ---
 V 1.0.2 -
-- Added a custom colorspace menu, expected to support any futher and miscellaneous colorspace usecases 
+- Added a custom colorspace menu, expected to support any futher and miscellaneous colorspace usecases
+- Adjusted the preference menu a bit for better experience and redability
 
 V 1.0.0 -
 - Added Agx support to the addon
