@@ -32,6 +32,8 @@ Currently the addon supports blender default and Aces color spaces
 
 Changelog
 ---
+V 1.0.2 -
+- Added a custom colorspace menu, expected to support any futher and miscellaneous colorspace usecases 
 
 V 1.0.0 -
 - Added Agx support to the addon
