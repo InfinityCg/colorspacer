@@ -34,7 +34,7 @@ Currently the addon supports any possible usecase for most of the colorspaces av
 
 Changelog
 ---
-V 1.0.2 -
+V 1.1 -
 - Added a custom colorspace menu, expected to support any futher and miscellaneous colorspace usecases
 - Adjusted the preference menu a bit for better experience and redability
 
