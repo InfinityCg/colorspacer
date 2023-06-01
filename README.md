@@ -28,7 +28,6 @@ Currently the addon supports any possible usecase for most of the colorspaces av
 
 ![Product page 2](https://user-images.githubusercontent.com/84709012/211053122-efd6df18-f831-43ce-8e43-a1b1788aa9b5.jpg)
 
-![image align="center"](https://user-images.githubusercontent.com/84709012/224279720-b1077d26-91ef-45bd-b982-e86a71561c84.png)
 
 
 
